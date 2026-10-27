@@ -1,7 +1,9 @@
 {
-  "name": "math",
+  "name": "math-matrix",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "An interactive visual computing laboratory for advanced mathematical concepts.",
+  "author": "Ankush Singh <ankushsingh21123@gmail.com>",
   "type": "module",
   "scripts": {
     "dev": "vite",
