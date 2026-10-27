@@ -23,13 +23,12 @@ Built with React 18, Vite 6, TypeScript 5, Plotly.js, Recharts, KaTeX, and Tailw
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Multi-Language Architecture & Tech Stack
 
-- **Framework**: React 18 + Vite 6
-- **Language**: TypeScript 5
-- **Visual Computing**: Plotly.js, React-Plotly, Recharts
-- **Math Engine**: Math.js, Simple-Statistics, KaTeX LaTeX typesetting
-- **Styling**: Tailwind CSS 3 + Framer Motion animations
+- **Frontend Visual Laboratory**: React 18 + Vite 6, TypeScript 5, Plotly.js, Recharts, KaTeX LaTeX typesetting, Tailwind CSS 3
+- **Scientific Computing API (`backend-python/`)**: Python 3.12, FastAPI, Uvicorn, Discrete Fourier Transform (DFT), Numerical Calculus Quadratures, Matrix Linear Algebra
+- **Numerical FFT Engine (`engine-cpp/`)**: Modern C++20, CMake, In-place Cooley-Tukey Radix-2 Fast Fourier Transform, Cache-friendly Matrix Dot Products
+
 
 ---
 
