@@ -2,6 +2,13 @@
 
 **MathMatrix** is an interactive visual laboratory designed to bring complex mathematical and probabilistic structures to life in real time. 
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-math--matrix--lab.netlify.app-00C7B7?style=for-the-badge&logo=netlify)](https://math-matrix-lab.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-ankushsingh21123--blip%2FMathMatrix-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankushsingh21123-blip/MathMatrix)
+
+🌐 **Live Website:** [math-matrix-lab.netlify.app](https://math-matrix-lab.netlify.app)
+
+<br/>
+
 Built with React 18, Vite 6, TypeScript 5, Plotly.js, Recharts, KaTeX, and Tailwind CSS.
 
 ---
